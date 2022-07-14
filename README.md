@@ -9,7 +9,7 @@ Checking out Flask-RESTX package and the Swagger UI automatic documentation.
   The code version for the above post has been tagged with **v1.0.0**. It can be cloned with:
   
   ```
-  git clone -b v1.0.0 https://github.com/behai-nguyen/flask-restx-demo.git .
+  git clone -b v1.0.0 https://github.com/behai-nguyen/flask-restx-demo.git
   ```
 
 ## License
