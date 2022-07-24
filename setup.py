@@ -16,5 +16,6 @@ setup(
         'python-dotenv',
         'Flask-RESTX',
         'Flask-SQLAlchemy',
+        'Flask-Cors',		
     ],
 )
