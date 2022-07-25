@@ -20,6 +20,14 @@ Checking out Flask-RESTX package and the Swagger UI automatic documentation.
   git clone -b v1.0.1 https://github.com/behai-nguyen/flask-restx-demo.git
   ```
 
+* [Python: Docker image build -- “the Werkzeug” problem 🤖!](https://behainguyen.wordpress.com/2022/07/25/python-docker-image-build-the-werkzeug-problem-%f0%9f%a4%96/)
+
+  Enable cross-origin AJAX requests and Docker image building. Tagged with **v1.0.2**, clone with:
+  
+  ```
+  git clone -b v1.0.2 https://github.com/behai-nguyen/flask-restx-demo.git
+  ```
+
 ## License
 [ MIT license ](http://www.opensource.org/licenses/mit-license.php)
 and the [ GPL license](http://www.gnu.org/licenses/gpl.html).
