@@ -27,6 +27,13 @@ Checking out Flask-RESTX package and the Swagger UI automatic documentation.
   ```
   git clone -b v1.0.2 https://github.com/behai-nguyen/flask-restx-demo.git
   ```
+* [Python: Docker image build — save to and load from *.tar files.](https://behainguyen.wordpress.com/2022/07/27/python-docker-image-build-save-to-and-load-from-tar-files/); [Python: Docker volumes — where is my SQLite database file?](https://behainguyen.wordpress.com/2022/07/29/python-docker-volumes-where-is-my-sqlite-database-file/)
+
+  No code changes. Tag is still **v1.0.2**, clone with:
+  
+  ```
+  git clone -b v1.0.2 https://github.com/behai-nguyen/flask-restx-demo.git
+  ```
 
 ## License
 [ MIT license ](http://www.opensource.org/licenses/mit-license.php)
